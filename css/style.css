@@ -1,0 +1,46 @@
+.bg-image {
+  background-image: url("../images/background.jpg");
+  height: 1080px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.logo {
+    padding-left: 220px;
+}
+
+.title {
+    padding-left: 235px;
+}
+.head {
+    font-size: 96px;
+    line-height: 82px;
+    margin-top: 117px;
+    margin-bottom: 118px;
+}
+
+.saletext {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 40px;
+    max-width: 370px;
+    margin-bottom: 62px;
+}
+
+.yb {
+    max-width: 255px;
+    height: 68px;
+    font-size: 27px;
+    line-height: 23px;
+    color: #A80E0E;
+}
+
+.yb::after {
+    content: ' \2192';
+}
+
+.secontsection {
+    max-width: 1345px;
+    width: 100%;
+    margin: auto;
+}
